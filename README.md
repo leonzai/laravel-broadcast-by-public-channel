@@ -18,8 +18,8 @@ laravel-echo-server start
 
 # Test
 
-Open the link [http://your url.com/test.html](http://your url.com/test.html) and wait for it to be broadcast.
-Open the link [http://your url.com/broadcast](http://your url.com/broadcast) to broadcast, then you will receive a message on the link link [http://your url.com/test.html](http://your url.com/test.html).
+Open the link [http://yoururl.com/test.html](http://yoururl.com/test.html) and wait for it to be broadcast.
+Open the link [http://yoururl.com/broadcast](http://yoururl.com/broadcast) to broadcast, then you will receive a message on the link link [http://your url.com/test.html](http://your url.com/test.html).
 
 # From Fresh Laravel To This Sample
 
